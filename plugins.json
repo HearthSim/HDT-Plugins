@@ -3,67 +3,62 @@
     {
       "url": "https://api.github.com/repos/HearthSim/Hearthstone-Collection-Tracker",
       "title": "Collection Tracker",
-      "short_description": "Track desired dust needed for the desired collection."
+      "description": "Track desired dust needed for the desired collection."
     },
     {
       "url": "https://api.github.com/repos/judge2020/Export-To-Web-HDT",
       "title": "Export to Hearthpwn",
-      "short_description": "Export a deck to Hearthpwn."
+      "description": "Export a deck to Hearthpwn."
     },
     {
       "url": "https://api.github.com/repos/rembound/Arena-Helper",
       "title": "Arena Helper",
-      "short_description": "Arena tier list"
+      "description": "Arena tier list"
     },
     {
       "url": "https://api.github.com/repos/RedHatter/Graveyard",
       "title": "Graveyard tracker",
-      "short_description": "Track dead minions for nzoth games."
+      "description": "Track dead minions for nzoth games."
     },
     {
       "url": "https://api.github.com/repos/falconmick/BattleCryPluggin",
       "title": "BattleCry!",
-      "short_description": "Play sounds when a minion is played."
+      "description": "Play sounds when a minion is played."
     },
     {
       "url": "https://api.github.com/repos/andburn/hdt-plugin-endgame",
       "title": "End Game",
-      "short_description": "adds some info and stats at the end of a game."
+      "description": "adds some info and stats at the end of a game."
     },
     {
       "url": "https://api.github.com/repos/andburn/hdt-plugin-statsconverter",
       "title": "Stats converter",
-      "short_description": "export game statistics from HDT"
-    },
-    {
-      "url": "https://api.github.com/repos/azeier/HDT-TwitchPlugin",
-      "title": "Twitch control",
-      "short_description": "Twitch/streaming commands"
+      "description": "export game statistics from HDT"
     },
     {
       "url": "https://api.github.com/repos/AdnanC/HDT.Plugins.MetaStats",
       "title": "MetaStats",
-      "short_description": "Contribute data to Metastats"
+      "description": "Contribute data to Metastats"
     },
     {
       "url": "https://api.github.com/repos/riQQ/Hearth-Arena-Uploader",
       "title": "Hearth Arena Uploader",
-      "short_description": "Upload arena runs to Hearth Arena"
+      "description": "Upload arena runs to Hearth Arena"
     },
     {
       "url": "https://api.github.com/repos/realchriscasey/TroubleAtTheMill",
       "title": "Trouble at the mill",
-      "short_description": "show how much fatigue until death"
+      "description": "show how much fatigue until death"
     },
     {
       "url": "https://api.github.com/repos/arkein/Hearthstone-Treasury",
       "title": "Hearthstone Treasury",
-      "short_description": "Keep track of your gold and packs"
+      "description": "Keep track of your gold and packs"
     },
     {
       "url": "https://api.github.com/repos/ericBG/AnyfinCalculator",
       "title": "Anyfin Calculator",
-      "short_description": "Damage possible with your Anfin can Happen"
+      "description": "Damage possible with your Anfin can Happen"
     }
   ]
 }
