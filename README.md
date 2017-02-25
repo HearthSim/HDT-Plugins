@@ -2,29 +2,9 @@
 
 this repo is meant to keep a list of plugins for the (upcoming) HDT plugin browser.
 
-## Adding plugins and format for the plugin file
+## To add plugins, comment [here](https://github.com/HearthSim/HDT-Plugins/issues/2)
 
-To get your plugin listed you will need to follow this format in the main plugins file. Your repository must also follow the guidelines below.
-
-The program deseralizes the json for each item in the data array. The url is an API url to the repo page. THe plugin creators can dictate what the title and short description of their plugins are.
-
-```JSON
-{
-  "url": "https://api.github.com/repos/:owner/:repo",
-  "title": "YOUR_TITLE",
-  "short_description": "YOUR_DESC"
-}
-```
-Example:
-```JSON
-{
-  "url": "https://api.github.com/repos/HearthSim/Hearthstone-Collection-Tracker",
-  "title": "YOUR_TITLE",
-  "short_description": "YOUR_DESC"
-}
-```
-
-Make a pull request by appending your repo to the file.
+---
 
 ## guidelines for repositories
 
