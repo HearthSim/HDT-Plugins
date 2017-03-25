@@ -4,73 +4,85 @@
       "url": "https://api.github.com/repos/HearthSim/Hearthstone-Collection-Tracker",
       "title": "Collection Tracker",
       "description": "Keep track of your collection. Know the amount of dust needed for a full cllection or for the collection only with your desired cards.",
-      "author": "Hearthsim"
+      "author": "Hearthsim",
+      "binary": "HearthstoneCollectionTracker.dll"
     },
     {
       "url": "https://api.github.com/repos/judge2020/Export-To-Web-HDT",
       "title": "Export to Hearthpwn",
       "description": "Export the selected deck to Hearthpwn or a TXT file. Use by selecting a deck and going to the plugins menu.",
-      "author": "Judge2020"
+      "author": "Judge2020",
+      "binary": "Export-To-Web.dll"
     },
     {
       "url": "https://api.github.com/repos/rembound/Arena-Helper",
       "title": "Arena Helper",
       "description": "Helps you pick cards in arena including an arena tier list with up-to-date scores of cards.",
-      "author": "Rembound"
+      "author": "Rembound",
+      "binary": "ArenaHelper.dll"
     },
     {
       "url": "https://api.github.com/repos/RedHatter/Graveyard",
       "title": "Graveyard tracker",
       "description": "Track what minions have died on your side of the game. Useful for N'Zoth games.",
-      "author": "RedHatter"
+      "author": "RedHatter",
+      "binary": "Graveyard.dll"
     },
     {
       "url": "https://api.github.com/repos/falconmick/BattleCryPluggin",
       "title": "BattleCry!",
       "description": "Play sounds when a minion is played. Default sound is JOHN CENA for mysterious challenger.",
-      "author": "Falconmick"
+      "author": "Falconmick",
+      "binary": "BattleCry.dll"
     },
     {
       "url": "https://api.github.com/repos/andburn/hdt-plugin-endgame",
       "title": "End Game",
       "description": "Gives you extra information at the end of a game.",
-      "author": "andburn"
+      "author": "andburn",
+      "binary": "EndGame.dll"
     },
     {
       "url": "https://api.github.com/repos/andburn/hdt-plugin-statsconverter",
       "title": "Stats converter",
       "description": "export game statistics from HDT",
-      "author": "andburn"
+      "author": "andburn",
+      "binary": "StatsConverter.dll"
     },
     {
       "url": "https://api.github.com/repos/AdnanC/HDT.Plugins.MetaStats",
       "title": "MetaStats",
       "description": "Contribute data to Metastats",
-      "author": "AdnanC"
+      "author": "AdnanC",
+      "binary": "MetaStats.dll"
     },
     {
       "url": "https://api.github.com/repos/riQQ/Hearth-Arena-Uploader",
       "title": "Hearth Arena Uploader",
       "description": "Upload arena runs to Hearth Arena",
-      "author": "riQQ"
+      "author": "riQQ",
+      "binary": "Hearth Arena Uploader.dll"
     },
     {
       "url": "https://api.github.com/repos/realchriscasey/TroubleAtTheMill",
       "title": "Trouble at the mill",
       "description": "show how much fatigue until death",
-      "author": "realchriscasey"
+      "author": "realchriscasey",
+      "binary": "TroubleAtTheMill.dll"
     },
     {
       "url": "https://api.github.com/repos/arkein/Hearthstone-Treasury",
       "title": "Hearthstone Treasury",
       "description": "Keep track of your gold and packs",
-      "author": "arkein"
+      "author": "arkein",
+      "binary": "Hearthstone Treasury.dll"
     },
     {
       "url": "https://api.github.com/repos/ericBG/AnyfinCalculator",
       "title": "Anyfin Calculator",
       "description": "Damage possible with your Anfin can Happen",
-      "author": "ericBG"
+      "author": "ericBG",
+      "binary": "AnyfinCalculator.dll"
     }
   ]
 }
