@@ -3,7 +3,7 @@
     {
       "url": "https://api.github.com/repos/HearthSim/Hearthstone-Collection-Tracker",
       "title": "Collection Tracker",
-      "description": "Keep track of your collection. Know the amount of dust needed for a full cllection or for the collection only with your desired cards.",
+      "description": "Helps user to keep track on packs progess, suggesting the packs that will most probably contain missing cards. Report bugs and issues on the Project's Issues page.",
       "author": "Hearthsim",
       "binary": "HearthstoneCollectionTracker.dll"
     },
@@ -17,35 +17,28 @@
     {
       "url": "https://api.github.com/repos/rembound/Arena-Helper",
       "title": "Arena Helper",
-      "description": "Helps you pick cards in arena including an arena tier list with up-to-date scores of cards.",
+      "description": "Arena Helper is a plugin for Hearthstone Deck Tracker that helps drafting Hearthstone arena decks by showing an overlay with card values from a tier list. The plugin tries to visually detect the arena heroes and card choices. Detected cards are displayed alongside the value of the card, that is specified in The Lightforge: Hearthstone Arena Tier List. The created deck can be saved to Hearthstone Deck Tracker. ",
       "author": "Rembound",
       "binary": "ArenaHelper.dll"
     },
     {
       "url": "https://api.github.com/repos/RedHatter/Graveyard",
       "title": "Graveyard tracker",
-      "description": "Track what minions have died on your side of the game. Useful for N'Zoth games.",
+      "description": "Displays minions that have died this game. Includes specialized displays: deathrattle minions for N'Zoth decks, resurect chance for Resurect Priest, and Murloc minions with a damage calculator for Anyfin Can Happen.",
       "author": "RedHatter",
       "binary": "Graveyard.dll"
     },
     {
-      "url": "https://api.github.com/repos/falconmick/BattleCryPluggin",
-      "title": "BattleCry!",
-      "description": "Play sounds when a minion is played. Default sound is JOHN CENA for mysterious challenger.",
-      "author": "Falconmick",
-      "binary": "BattleCry.dll"
-    },
-    {
       "url": "https://api.github.com/repos/andburn/hdt-plugin-endgame",
       "title": "End Game",
-      "description": "Gives you extra information at the end of a game.",
+      "description": "Adds extra functionality to the built-in end of game note window. Including, victory/defeat screenshots and opponent deck archetypes.",
       "author": "andburn",
       "binary": "EndGame.dll"
     },
     {
       "url": "https://api.github.com/repos/andburn/hdt-plugin-statsconverter",
       "title": "Stats converter",
-      "description": "export game statistics from HDT",
+      "description": "Import and export game statistics in different formats",
       "author": "andburn",
       "binary": "StatsConverter.dll"
     },
@@ -59,30 +52,23 @@
     {
       "url": "https://api.github.com/repos/riQQ/Hearth-Arena-Uploader",
       "title": "Hearth Arena Uploader",
-      "description": "Upload arena runs to Hearth Arena",
+      "description": "Plugin for uploading your arena runs to Hearth Arena (http://heartharena.com). Suggestions and bug reports can be sent to https://github.com/riQQ/Hearth-Arena-Uploader.",
       "author": "riQQ",
       "binary": "Hearth Arena Uploader.dll"
     },
     {
       "url": "https://api.github.com/repos/realchriscasey/TroubleAtTheMill",
       "title": "Trouble at the mill",
-      "description": "show how much fatigue until death",
+      "description": "Displays the number of card draws until each player dies from fatigue.",
       "author": "realchriscasey",
       "binary": "TroubleAtTheMill.dll"
     },
     {
       "url": "https://api.github.com/repos/arkein/Hearthstone-Treasury",
       "title": "Hearthstone Treasury",
-      "description": "Keep track of your gold and packs",
+      "description": "Gold tracking plugin for Hearthstone Deck Tracker.",
       "author": "arkein",
       "binary": "Hearthstone Treasury.dll"
-    },
-    {
-      "url": "https://api.github.com/repos/ericBG/AnyfinCalculator",
-      "title": "Anyfin Calculator",
-      "description": "Damage possible with your Anfin can Happen",
-      "author": "ericBG",
-      "binary": "AnyfinCalculator.dll"
     }
   ]
 }
